@@ -115,9 +115,6 @@ fun_fact: "I mass star interesting repos in my free time 💜"
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=goome0&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-
 </div>
 
 <!-- Footer -->
